@@ -83,10 +83,27 @@
 </div>
 
 <div align="center">
+### 📢 關於舊 Telegram 交流群的說明
 
+原本的 Telegram 交流群已因平台審核機制被判定為「違規」而關閉/限制使用。  
+這並不是因為本專案包含惡意程式或違規內容，而是由於以下可能原因綜合導致的誤判：
+
+- 群內訊息量、檔案與連結較多  
+- 自動化審核機制較為嚴格  
+- 部分關鍵字或內容觸發了風險偵測規則  
+
+為了讓大家能夠繼續正常交流，我們已啟用新的官方 Telegram 交流群：
+
+👉 **新群地址：** https://t.me/WeChatPadPro1  
+
+後續的更新公告、技術交流與問題回報，都會在新群中進行，建議所有用戶儘快加入新群。
+
+> 🔒 溫馨提醒：請以本頁或官方倉庫中提供的群組連結與下載位址為準，  
+> 謹防陌生私訊、來路不明的安裝包或所謂「破解版」避免安全風險。
 | 💬 Telegram 交流群 | 💼 微信付費專業群 | 🔔 釘釘交流群 | 🌐 Know Hub 在線論壇 |
 |:---:|:---:|:---:|:---:|
-| <img src="./static/qrcode/diabao.JPG" width="160" alt="Telegram群二維碼" style="border-radius: 10px;"><br><br><a href="https://t.me/+LK0JuqLxjmk0ZjRh"><img src="https://img.shields.io/badge/Telegram-加入群組-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="加入Telegram"></a><br><br>📊 成員數量: 1400+ 位用戶<br>🔔 即時更新通知<br>💡 技術問題解答<br>💬 使用經驗分享 | <img src="https://raw.githubusercontent.com/WeChatPadPro/WeChatPadPro/refs/heads/main/static/qrcode/%E5%9B%BE%E7%89%87_20250619211139.jpg" width="160" alt="微信付費入群二維碼" style="border-radius: 10px;"><br><br><div style="background: #FF6B35; color: white; padding: 8px 16px; border-radius: 20px; font-weight: bold; font-size: 14px; display: inline-block;">🔒 掃碼付費加入專業群</div><br><br>⭐ VIP技術支持<br>🚀 專屬功能體驗<br>⚡ 優先解決問題<br>🎯 高級使用技巧分享 | <img src="https://github.com/user-attachments/assets/84b388ed-67a3-4f35-87d8-1b11e1747f55" width="160" alt="釘釘群二維碼" style="border-radius: 10px;"><br><br><a href="https://qr.dingtalk.com/action/joingroup?code=v1,k1,0YZVJVj8M8ZZqG2pocxE4i4M3XzeIiZA7dU6ASIk78idR7ksupjDEA==&_dt_no_comment=1&origin=11"><img src="https://img.shields.io/badge/钉钉-加入群組-1890FF?style=for-the-badge&logo=dingtalk&logoColor=white" alt="加入钉钉"></a><br><br>💻 技術討論<br>❓ 問題解答<br>💡 使用經驗分享 | <p>探索與交流 Know Hub 的無限可能</p><br><a href="https://bbs.knowhub.cloud/"><img src="https://img.shields.io/badge/論壇-加入討論-9C27B0?style=for-the-badge&logo=discourse&logoColor=white" alt="加入論壇"></a><br><br>📚 WeChatPadPro交流群<br>💬 技術問題討論<br>📖 安裝使用指南<br>🆕 新需求反饋<br>📋 文檔中心 |
+| <img src="<img width="869" height="1088" alt="ScreenShot_2025-11-19_120715_102" src="https://github.com/user-attachments/assets/5dc3cbf5-f4a3-489f-8b42-02501a34285a" />
+" width="160" alt="Telegram群二維碼" style="border-radius: 10px;"><br><br><a href="https://t.me/+LK0JuqLxjmk0ZjRh"><img src="https://img.shields.io/badge/Telegram-加入群組-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="加入Telegram"></a><br><br>📊 成員數量: 1400+ 位用戶<br>🔔 即時更新通知<br>💡 技術問題解答<br>💬 使用經驗分享 | <img src="https://raw.githubusercontent.com/WeChatPadPro/WeChatPadPro/refs/heads/main/static/qrcode/%E5%9B%BE%E7%89%87_20250619211139.jpg" width="160" alt="微信付費入群二維碼" style="border-radius: 10px;"><br><br><div style="background: #FF6B35; color: white; padding: 8px 16px; border-radius: 20px; font-weight: bold; font-size: 14px; display: inline-block;">🔒 掃碼付費加入專業群</div><br><br>⭐ VIP技術支持<br>🚀 專屬功能體驗<br>⚡ 優先解決問題<br>🎯 高級使用技巧分享 | <img src="https://github.com/user-attachments/assets/84b388ed-67a3-4f35-87d8-1b11e1747f55" width="160" alt="釘釘群二維碼" style="border-radius: 10px;"><br><br><a href="https://qr.dingtalk.com/action/joingroup?code=v1,k1,0YZVJVj8M8ZZqG2pocxE4i4M3XzeIiZA7dU6ASIk78idR7ksupjDEA==&_dt_no_comment=1&origin=11"><img src="https://img.shields.io/badge/钉钉-加入群組-1890FF?style=for-the-badge&logo=dingtalk&logoColor=white" alt="加入钉钉"></a><br><br>💻 技術討論<br>❓ 問題解答<br>💡 使用經驗分享 | <p>探索與交流 Know Hub 的無限可能</p><br><a href="https://bbs.knowhub.cloud/"><img src="https://img.shields.io/badge/論壇-加入討論-9C27B0?style=for-the-badge&logo=discourse&logoColor=white" alt="加入論壇"></a><br><br>📚 WeChatPadPro交流群<br>💬 技術問題討論<br>📖 安裝使用指南<br>🆕 新需求反饋<br>📋 文檔中心 |
 
 </div>
 
