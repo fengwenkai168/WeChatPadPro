@@ -1,5 +1,5 @@
 # WeChatPadPro
-新版内测中需要内测的可以在tg或者钉钉私信群主进行内测体验
+新版内测中需要内测的可以在tg或者钉钉私信群主进行内测体验内测接口地址：https://wx.knowhub.cloud/
 <div align="center">
   <img src="static/doc/4270252wc57e-4b66-9ae3-0a81fc001255.png" alt="WeChatPadPro" width="800px">
 </div>
